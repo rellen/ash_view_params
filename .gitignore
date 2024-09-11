@@ -11,3 +11,5 @@ erl_crash.dump
 .envrc
 .direnv
 .erlang-history
+/tmp
+.nix-mix
